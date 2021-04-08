@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.carousel-inner{
+    max-height: 600px;
+    background-size: 1005 100%;
+}
+ 
+#customers{
+    height: 420px;
+}
+section{
+    margin: 2px solid rgba(20, 18, 18, 0.493);
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline ;
+
+}
+
+#services{
+    height: 300px;
+}
+
+html{
+    background-image: url("./img/bank.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.folloW{
+    line-height: 30px;
+}
